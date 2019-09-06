@@ -1,0 +1,30 @@
+[
+	{
+		"from Server Action Adventure": [
+			{
+				"gameTitle": "AnotherActionAdventure 123",
+				"publisher": "TestAnotherActionPublisher",
+				"platform": "TestAnotherActionPlatform"
+			},
+			{
+				"gameTitle": "GTA V",
+				"publisher": "Rockstar Games",
+				"platform": "PC, PS4"
+			}
+		]
+	},
+	{
+		"Jump 'n' Run": [
+			{
+				"gameTitle": "Super Mario Odysee",
+				"publisher": "Nintendo",
+				"platform": "Switch"
+			},
+			{
+				"gameTitle": "AnotherJnR",
+				"publisher": "JnR Games",
+				"platform": "PC, PS4, xBox"
+			}
+		]
+	}
+]
